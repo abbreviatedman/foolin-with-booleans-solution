@@ -1,0 +1,23 @@
+{
+  "name": "boolean-test-1",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --watch-all"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ci-wdi-900/boolean-basics-exercise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ci-wdi-900/boolean-basics-exercise/issues"
+  },
+  "homepage": "https://github.com/ci-wdi-900/boolean-basics-exercise#readme",
+  "description": ""
+}
